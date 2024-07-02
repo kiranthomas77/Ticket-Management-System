@@ -76,10 +76,10 @@ The Ticket Management System is a web application designed to help an organizati
 ## Diagrams
 
 ### Use Case Diagram
-![Use Case Diagram](path/to/TMS Use Case Diagram.jpg)
+![Use Case Diagram](path/to/TMS_Use_Case_Diagram.jpg)
 
 ### ER Diagram
-![ER Diagram](path/to/TMS ERD.jpg)
+![ER Diagram](assets/TMS_ERD.jpg)
 
 ## Testing
 
