@@ -83,9 +83,7 @@ The Ticket Management System is a web application designed to help an organizati
 
 ## Testing
 
-### Postman: Used to test the backend endpoints.
-
-You can use the provided Postman collection to test the API endpoints. Import the collection into Postman and execute the requests to interact with the Ticket Management System. The Postman collection is located in the `postman` folder of the repository.
+Postman : Used to test the backend endpoints.
 
 ## Contributors
 
