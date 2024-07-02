@@ -55,7 +55,8 @@ const AdminDashboard = () => {
       <h2>Admin Dashboard</h2>
 
       <div style={styles.section}>
-        <h3>Create Agent</h3>
+        <h5>Create Agent</h5>
+        <hr />
         <input
           type="text"
           value={newAgentUsername}
@@ -81,7 +82,8 @@ const AdminDashboard = () => {
       </div>
 
       <div style={styles.section}>
-        <h3>Agent List</h3>
+        <h5>Agent List</h5>
+        <hr />
         <table style={styles.table}>
           <thead>
             <tr>
@@ -126,7 +128,7 @@ const styles = {
     backgroundColor: '#f8f9fa',
   },
   section: {
-    marginBottom: '20px',
+    marginBottom: '40px',
   },
   input: {
     width: '100%',
